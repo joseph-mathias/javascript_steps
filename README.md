@@ -9,7 +9,7 @@ ES6 comes with significant changes to the JavaScript language. It brought severa
 rest and spread operators, template literals, classes, modules and many other enhancements to make JavaScript programming easier and more fun. 
 In this article, we will discuss some of the best and most popular ES6 features that we can use in your everyday JavaScript coding.
 
-   * [let and const Keywords](let and const Keywords)
+   * [let-and-const-Keywords](let-and-const-Keywords)
    
    * [Arrow Functions](Arrow Functions)
    
@@ -30,7 +30,7 @@ In this article, we will discuss some of the best and most popular ES6 features 
    * [Modules](Modules]
 
 # Understanding these Features
-## let and const keywords :
+## let-and-const-keywords
 
 The keyword "let" enables the users to define variables and on the other hand, "const" enables the users to define constants. Variables were previously declared using "var" which had function scope and were hoisted to the top. It means that a variable can be used before declaration. But, the "let" variables and constants have block scope which is surrounded by curly-braces "{}" and cannot be used before declaration.
 ```javascript
