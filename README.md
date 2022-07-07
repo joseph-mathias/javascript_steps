@@ -9,25 +9,25 @@ ES6 comes with significant changes to the JavaScript language. It brought severa
 rest and spread operators, template literals, classes, modules and many other enhancements to make JavaScript programming easier and more fun. 
 In this article, we will discuss some of the best and most popular ES6 features that we can use in your everyday JavaScript coding.
 
-   * [let-and-const-Keywords](let-and-const-Keywords)
+   - [let-and-const-Keywords](/let-and-const-Keywords)
    
-   * [Arrow Functions](Arrow Functions)
+   - [Arrow-Functions](/Arrow-Functions)
    
-   * [Multi-line Strings](Multi-line Strings)
+   - [Multi-line-Strings](/Multi-line-Strings)
    
-   * [Default Parameters](Default Parameters)
+   - [Default-Parameters](Default-Parameters)
    
-   * [Template Literals](Template Literals)
+   - [Template-Literals](Template-Literals)
    
-   * [Destructuring Assignment](Destructuring Assignment)
+   - [Destructuring-Assignment](Destructuring-Assignment)
    
-   * [Enhanced Object Literals](Enhanced Object Literals)
+   - [Enhanced-Object-Literals](Enhanced-Object-Literals)
    
-   * [Promises](Promises)
+   - [Promises](Promises)
    
-   * [Classes](Classes)
+   - [Classes](Classes)
    
-   * [Modules](Modules]
+   - [Modules][Modules]
 
 # Understanding these Features
 ## let-and-const-keywords
@@ -40,7 +40,7 @@ console.log(i);   //Output 10
 const PI = 3.14;
 console.log(PI);  //Output 3.14
 ```
-## Arrow Functions
+## Arrow-Functions
 
 ES6 provides a feature known as Arrow Functions. It provides a more concise syntax for writing function expressions by removing the "function" and "return" keywords.
 
@@ -54,7 +54,7 @@ It is evident that there is no "return" or "function" keyword in the arrow funct
 We can also skip the parenthesis in the case when there is exactly one parameter, but will always need to use it when you have zero or more than one parameter.
 But, if there are multiple expressions in the function body, then we need to wrap it with curly braces ("{}"). We also need to use the "return" statement to return the required value.
 
-## Multi-line Strings
+## Multi-line-Strings
 
 ES6 also provides Multi-line Strings. Users can create multi-line strings by using back-ticks(`).
 
@@ -65,7 +65,7 @@ let greeting = `Hello World,
                 Keep Learning and Practicing!`
                 
 ```
-## Default Parameters
+## Default-Parameters
 
 In ES6, users can provide the default values right in the signature of the functions. But, in ES5, OR operator had to be used.
 ```javascript
@@ -81,13 +81,13 @@ var calculateArea = function(height, width) {
    // logic
 }
 ```
-## Template Literals
+## Template-Literals
 
 ES6 introduces very simple string templates along with placeholders for the variables. The syntax for using the string template is ${PARAMETER} and is used inside of the back-ticked string.
 ```javascript
 let name = `My name is ${firstName} ${lastName}`
 ```
-## Destructuring Assignment
+## Destructuring-Assignment
 
 Destructuring is one of the most popular features of ES6. The destructuring assignment is an expression that makes it easy to extract values from arrays, or properties from objects, into distinct variables.
 
@@ -103,7 +103,7 @@ let person = {name: "Peter", age: 28};
 let {name, age} = person; // Object destructuring assignment
 console.log(name, age);
 ```
-## Enhanced Object Literals
+## Enhanced-Object-Literals
 
 ES6 provides enhanced object literals which make it easy to quickly create objects with properties inside the curly braces.
 ```javascript
