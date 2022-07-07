@@ -10,7 +10,6 @@ rest and spread operators, template literals, classes, modules and many other en
 In this article, we will discuss some of the best and most popular ES6 features that we can use in your everyday JavaScript coding.
 
    - [let-and-const-Keywords](let-and-const-Keywords)
-   
    - [Arrow-Functions](Arrow-Functions)
    
    - [Multi-line-Strings](Multi-line-Strings)
