@@ -9,16 +9,16 @@ ES6 comes with significant changes to the JavaScript language. It brought severa
 rest and spread operators, template literals, classes, modules and many other enhancements to make JavaScript programming easier and more fun. 
 In this article, we will discuss some of the best and most popular ES6 features that we can use in your everyday JavaScript coding.
 
-    *[let and const Keywords](#let and const Keywords)
-    *[Arrow Functions](#Arrow Functions)
-    *[Multi-line Strings](#Multi-line Strings)
-    *[Default Parameters](#Default Parameters)
-    *[Template Literals](#Template Literals)
-    *[Destructuring Assignment](#Destructuring Assignment)
-    *[Enhanced Object Literals](#Enhanced Object Literals)
-    *[Promises](#Promises)
-    *[Classes](#Classes)
-    *[Modules](#Modules]
+    *[let and const Keywords](let and const Keywords)
+    *[Arrow Functions](Arrow Functions)
+    *[Multi-line Strings](Multi-line Strings)
+    *[Default Parameters](Default Parameters)
+    *[Template Literals](Template Literals)
+    *[Destructuring Assignment](Destructuring Assignment)
+    *[Enhanced Object Literals](Enhanced Object Literals)
+    *[Promises](Promises)
+    *[Classes](Classes)
+    *[Modules](Modules]
 
 # Understanding these Features
 ## let and const keywords :
