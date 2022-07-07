@@ -1,0 +1,38 @@
+OOP is a programiing paradigm centered around objects rather than functions.
+its not a programing language or tool its a paradigm/style
+    e.g languages that support OOP
+
+        -C++
+        -C#
+        -Java
+        -JavaScript
+        -Ruby
+
+        FrameWorks are built with OOP in mind
+
+OOP 4 Pillars - Polymophism, Abstraction, Encapsulation and Inheritence
+
+Procedural Programming
+    programs are divided in a set of functions(methods)
+
+OOP 
+    solved the PP problems
+    Combines a group of related variables and functions
+
+        class variables = property
+        class functions = methods
+
+
+        E.G Car {
+            property : make
+            property : color
+            property : brand
+        }
+
+    Benefits 
+        Encapsulation -> Reduce Complexity + increase resuability
+        Abstraction -> Reduce Complexity + isole impact of changes
+        Inheritence -> Eliminate redundant code 
+        Polymophism -> Refactor ugly switch/case statements
+
+    JavaScript is all about Objects

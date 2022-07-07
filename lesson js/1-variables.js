@@ -13,4 +13,4 @@ console.log(empty);
 /* checks of the type
     complete the following
 */
-console.log("Type: " + typeof name);
+console.log("Type: " + typeof(name));

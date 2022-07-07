@@ -1,5 +1,5 @@
 // let -> block scope
-// var -> hoisted throughout the program
+// var -> hoisted throughout the program || Function scope
 // const -> constant
 
 var name = "Joseph";// don't use this

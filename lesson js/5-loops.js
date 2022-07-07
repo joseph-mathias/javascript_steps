@@ -4,7 +4,7 @@ var array = ['Zambia', 'Congo', 'USA', 'SA', 'Eypt']
 
 // for loop
 for (var index = 0; index < array.length; index++) {
-   console.log(array[index]);
+    console.log(array[index]);
 }
 
 //while loop
